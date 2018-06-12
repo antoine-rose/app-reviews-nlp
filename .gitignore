@@ -1,3 +1,5 @@
 *.json
 *.pyc
 .idea/
+*.iml
+*.csv
